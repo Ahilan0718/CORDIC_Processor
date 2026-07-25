@@ -1,0 +1,128 @@
+$date
+	Sat Jul 18 19:49:31 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module atan_rom_test $end
+$var wire 16 ! angle [15:0] $end
+$var parameter 32 " ADDR_WIDTH $end
+$var parameter 32 # WIDTH $end
+$var reg 4 $ addr [3:0] $end
+$var integer 32 % i [31:0] $end
+$scope module uut $end
+$var wire 4 & addr [3:0] $end
+$var parameter 32 ' ADDR_WIDTH $end
+$var parameter 32 ( WIDTH $end
+$var reg 16 ) angle [15:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b10000 (
+b100 '
+b10000 #
+b100 "
+$end
+#0
+$dumpvars
+b1100100100010 )
+b0 &
+b0 %
+b0 $
+b1100100100010 !
+$end
+#10
+b111011010110 !
+b111011010110 )
+b1 $
+b1 &
+b1 %
+#20
+b11111010111 !
+b11111010111 )
+b10 $
+b10 &
+b10 %
+#30
+b1111111011 !
+b1111111011 )
+b11 $
+b11 &
+b11 %
+#40
+b111111111 !
+b111111111 )
+b100 $
+b100 &
+b100 %
+#50
+b100000000 !
+b100000000 )
+b101 $
+b101 &
+b101 %
+#60
+b10000000 !
+b10000000 )
+b110 $
+b110 &
+b110 %
+#70
+b1000000 !
+b1000000 )
+b111 $
+b111 &
+b111 %
+#80
+b100000 !
+b100000 )
+b1000 $
+b1000 &
+b1000 %
+#90
+b10000 !
+b10000 )
+b1001 $
+b1001 &
+b1001 %
+#100
+b1000 !
+b1000 )
+b1010 $
+b1010 &
+b1010 %
+#110
+b100 !
+b100 )
+b1011 $
+b1011 &
+b1011 %
+#120
+b10 !
+b10 )
+b1100 $
+b1100 &
+b1100 %
+#130
+b1 !
+b1 )
+b1101 $
+b1101 &
+b1101 %
+#140
+b0 !
+b0 )
+b1110 $
+b1110 &
+b1110 %
+#150
+b1111 $
+b1111 &
+b1111 %
+#160
+b10000 %
